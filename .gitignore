@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.tmp
+*~
+*.bak
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.tools_extract_tmp.py
+scripts/debug_*.py
+scripts/tools_extract_tmp.py
+tools_extract_tmp.py

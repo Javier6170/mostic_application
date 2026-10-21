@@ -1,0 +1,11 @@
+strict: false
+working_dir: .
+language: EN
+sast:
+  include:
+    - index.html
+    - scripts/
+    - games/
+  exclude:
+    - assets/
+  recursion-limit: 1000

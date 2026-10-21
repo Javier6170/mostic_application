@@ -1,0 +1,13 @@
+strict: false
+working_dir: .
+language: EN
+ss:
+  include:
+    - index.html
+    - scripts/
+    - README.md
+  exclude:
+    - "assets/**"
+    - "games/**"
+  min_entropy: 3.0
+  feature_preview: false
